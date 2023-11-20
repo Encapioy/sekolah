@@ -117,7 +117,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                             ?>
                             </select>
                         </div>
-                        <button class="bg-gray-300 rounded-r-lg px-3 py-2" onclick="detail()"
+                        <button class="bg-gray-300 rounded-r-lg px-3 py-2"
                             type="submit">Tampilkan
                             Detail</button>
                     </div>
